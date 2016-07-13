@@ -42,6 +42,10 @@ switch (_filter) do
 		_ret set[count _ret,["Pro_SERTURBAN","SERT Urban Operation Uniform",350]];
 		_ret set[count _ret,["Pro_SERTBLACK","SERT Black Operation Uniform",350]];
 		_ret set[count _ret,["KAEL_SUITS_BLK_F","suit only to be used for court !",50]]
+		_ret set[count _ret,["ranger_uni","Wildlife Patrol",150]];
+		_ret set[count _ret,["TCG_PDDTC","Detective",150]];
+		_ret set[count _ret,["U_NikosAgedBody","Detective II",350]];
+		_ret set[count _ret,["TCG_PDAV","Pilot Uniform",350]];
 
 	};
 
@@ -50,7 +54,7 @@ switch (_filter) do
 
 		_ret set[count _ret,["TRYK_H_headsetcap_blk_Glasses","Baseball Cap/Glasses",50]];
 		_ret set[count _ret,["TRYK_r_cap_blk_Glasses",nil,50]];
-		_ret set[count _ret,["A3L_sargehat",nil,50]];
+		_ret set[count _ret,["SO_SHERIFFGRN",nil,50]];
 		_ret set[count _ret,["TCG_pdav_helmet","Pilot Helmet",50]];
 		_ret set[count _ret,["TCG_swathelmet","SERT Helmet 1",250]];
 		_ret set[count _ret,["TRYK_H_PASGT_BLK","SERT Helmet 2",250]];
@@ -106,6 +110,11 @@ switch (_filter) do
 		_ret set[count _ret,["Pro_DOCVEST_SGT","DOC Sarg",150]];
 		_ret set[count _ret,["Pro_DOCVEST","DOC Officer",150]];
 		_ret set[count _ret,["Pro_HIGHVEST_Command","HWY Patrol Vest",150]];
+		_ret set[count _ret,["Pro_HIGHVEST_Command","HWY Patrol Command Vest",150]];
+		_ret set[count _ret,["Pro_RideVest","RideAlong Vest",150]];
+		_ret set[count _ret,["Pro_emsVolunteer","First Responder [EMS]",150]]
+		
+		_ret set[count _ret,["TRYK_V_Sheriff_BA_OD","SO VEST",150]];
 		_ret set[count _ret,["Pro_HIGHVEST_Command","HWY Patrol Command Vest",150]];
 		_ret set[count _ret,["Pro_RideVest","RideAlong Vest",150]];
 		_ret set[count _ret,["Pro_emsVolunteer","First Responder [EMS]",150]]
