@@ -91,7 +91,7 @@ switch (_filter) do
 			["G_Combat",nil,55]
 		];
 	};
-	
+	//test
 	//Vest
 	case 3:
 	{
