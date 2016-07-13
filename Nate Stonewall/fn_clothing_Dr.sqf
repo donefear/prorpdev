@@ -43,6 +43,11 @@ switch (_filter) do
 			["H_Cap_blu", nil, 50],
 			["H_Beret_blk", nil, 50],
 			["A3L_medic_helmet", nil, 50]
+			["RYK_r_cap_blk_Glasses",nil,50],
+			["H_Bandanna_cbr",nil,30],
+			["H_Bandanna_gry",nil,30],
+			["H_Booniehat_DMARPAT",nil,40],
+			["H_Booniehat_rgr",nil,40],
 		];
 	};
 
