@@ -46,6 +46,13 @@ switch (_filter) do
 		_ret set[count _ret,["TCG_PDDTC","Detective",150]];
 		_ret set[count _ret,["U_NikosAgedBody","Detective II",350]];
 		_ret set[count _ret,["TCG_PDAV","Pilot Uniform",350]];
+		_ret set[count _ret,["A3L_HPCPT","Highway Director",150]];
+		_ret set[count _ret,["A3L_HPLT","Highway Master Trooper",150]];
+		_ret set[count _ret,["A3L_HPSGT","Highway Senior Trooper",150]];
+		_ret set[count _ret,["A3L_HPCPL","Highway State Trooper",150]];
+		_ret set[count _ret,["A3L_HPOFC","Highway Trooper",150]];
+
+
 
 	};
 
@@ -111,6 +118,7 @@ switch (_filter) do
 		_ret set[count _ret,["Pro_DOCVEST","DOC Officer",150]];
 		_ret set[count _ret,["Pro_HIGHVEST_Command","HWY Patrol Vest",150]];
 		_ret set[count _ret,["Pro_HIGHVEST_Command","HWY Patrol Command Vest",150]];
+		_ret set[count _ret,["Pro_HIGHVest","HWY Patrol Vest",150]];
 		_ret set[count _ret,["Pro_RideVest","RideAlong Vest",150]];
 		_ret set[count _ret,["Pro_emsVolunteer","First Responder [EMS]",150]]
 		
