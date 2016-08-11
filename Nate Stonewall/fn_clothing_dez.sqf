@@ -248,7 +248,6 @@ switch (_filter) do
 		[
 			["A3L_SpiderVest",nil,2000],
 			["A3L_SpookyVest",nil,2000],
-			["A3L_SuicideVest",nil,2000],
 			["k_cut_2",nil,2000],
 			["k_cut_5",nil,2000],
 			["k_cut_4",nil,2000],

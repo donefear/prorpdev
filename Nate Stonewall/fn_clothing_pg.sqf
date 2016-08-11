@@ -155,16 +155,17 @@ switch (_filter) do
 			["V_PlateCarrierH_CTRG",nil,2500],
 			["V_Press_F",nil,1150],
 			["V_TacVest_camo",nil,2250],
-			["V_PlateCarrier1_PMC_rgr",nil,2150],
-			["V_PlateCarrier1_PMC_blk",nil,2150],
-			["V_PlateCarrier1_PMC_marpat",nil,2150],
-			["V_PlateCarrier1_PMC_khki",nil,2150],
+			//["V_PlateCarrier1_PMC_rgr",nil,2150],
+			//["V_PlateCarrier1_PMC_blk",nil,2150],
+			//["V_PlateCarrier1_PMC_marpat",nil,2150],
+			//["V_PlateCarrier1_PMC_khki",nil,2150],
 			["V_PlateCarrierInd_PMC_blk",nil,2150],
 			["V_PlateCarrierInd_PMC_grn",nil,2150],
 			["V_TacVest_darkblck",nil,2150],
 			["TAC_EI_RRVCQB_OD",nil,10000],
 			["TAC_EI_RRVCQB_Khaki",nil,10000],
-			["TAC_EI_RRVCQB_B",nil,10000]
+			["TAC_EI_RRVCQB_B",nil,10000],
+			["TRYK_V_ArmorVest_ERIC",nil,10000]
 		];
 	};
 	

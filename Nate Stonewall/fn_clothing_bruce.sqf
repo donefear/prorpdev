@@ -311,7 +311,8 @@ switch (_filter) do
 		["jokermask","Jokermask",1120],
 		["H_KermitMask","Kermitmask",1120],
 		["Masque_Alien1","Alienmask",1120],
-		["H_ScarecrowMask","ScareCrowmask",1120]
+		["H_ScarecrowMask","ScareCrowmask",1120],
+		["Gorb_RoughSantaClaus2","RoughSanta",800]
 		];
 	};
 

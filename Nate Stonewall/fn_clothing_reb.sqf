@@ -231,7 +231,6 @@ switch (_filter) do
 			["V_PlateCarrierL_CTRG",nil,10000],
 			["V_Press_F",nil,1150],
 			["V_TacVest_camo",nil,2250],
-			["A3L_SuicideVest",nil,350000],
 			["TAC_EI_RRVCQB_OD",nil,10000],
 			["TAC_EI_RRVCQB_Khaki",nil,10000],
 			["TAC_EI_RRVCQB_B",nil,10000]
